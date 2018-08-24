@@ -6,5 +6,6 @@ sub = (a,b) => {
     return a - b;
 }
 
-console.log(soma(2,2));
-console.log(sub(5,2));
+mult = (a,b) => {
+    return a*b;
+}
