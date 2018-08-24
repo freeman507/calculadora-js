@@ -16,3 +16,4 @@ mult = (a,b) => {
 console.log(soma(2,2));
 console.log(sub(5,2));
 console.log(div(10,0));
+console.log(mult(3,3));
