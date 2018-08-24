@@ -10,6 +10,9 @@ div = (a,b) => {
     return b !== 0 ? a / b : 'Divisao por 0';
 }
 
+mult = (a,b) => {
+    return a*b;
+}
 console.log(soma(2,2));
 console.log(sub(5,2));
 console.log(div(10,0));
